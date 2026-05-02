@@ -1,6 +1,6 @@
 # Fake News Detection using NLP
 
-![Fake News Detection](assets/fake-news-detective.png)
+![Fake News Detection](ChySneha/Fake-News-Detective/fake-news-detective.png)
 fake-news-detective.png)
 
 ## Introduction
