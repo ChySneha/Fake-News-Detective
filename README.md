@@ -1,6 +1,7 @@
 # Fake News Detection using NLP
 
-![Fake News Detection](C:\Users\tanus\Downloads\fake-news-detective.png)
+![Fake News Detection](assets/fake-news-detective.png)
+fake-news-detective.png)
 
 ## Introduction
 
